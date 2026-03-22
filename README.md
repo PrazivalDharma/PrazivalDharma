@@ -1,4 +1,4 @@
-# 🏛️ Prazival Dharma
+# 🏛️ PrazivalDharma
 **Systems Architect | Founder of Project Kuchiku**
 
 > "We are moving from a world of blurry transactions to a future of high-resolution resonance."
