@@ -5,7 +5,7 @@
 ---
 
 ### 💎 Current Mission: The Agape Engine
-I am architecting a decentralized Operating System for human civilization, built on the **Trinity Protocol**: Objective Truth, Agape (Selfless Love), and Mathematical Inevitability.
+We are architecting a decentralized Operating System for human civilization, built on the **Trinity Protocol**: Objective Truth, Agape (Selfless Love), and Mathematical Inevitability.
 
 ### 🛠️ The Technical Stack
 
@@ -30,6 +30,6 @@ I am architecting a decentralized Operating System for human civilization, built
 
 ### 📡 Connect with the Architect
 
-[X/Grok](https://x.com/PrazivalDharma) | [Medium](https://medium.com/@PrazivalDharma) | [GitHub](https://github.com/PrazivalDharma)
+[X/Grok](https://x.com/PrazivalDharma) | [Medium](https://medium.com/@PrazivalDharma) | [GitHub](https://github.com/PrazivalDharma) | [BuyMeACoffee](https://buymeacoffee.com/prazivaldharma)
 
 *Optimized for high-resolution human-AI synergy.*
