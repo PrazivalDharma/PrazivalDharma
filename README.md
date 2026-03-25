@@ -13,7 +13,7 @@ I am architecting a decentralized Operating System for human civilization, built
 | :--- | :--- | :--- |
 | **Agape Engine Core** | The Ethics-First Logic "Caretaker" | [Explore 🛡️](https://github.com/PrazivalDharma/agape-engine-core) |
 | **Pi-Stable Compiler** | Deterministic Math & 80/20 Wealth Bedrock | [Explore 📐](https://github.com/PrazivalDharma/pi-stable-compiler) |
-| **Resonance Mesh** | Sovereign Identity & The "String" Interface | [Explore 🌐](https://github.com/PrazivalDharma/resonance-mesh) |
+| **Resonance Mesh** | Sovereign Identity & The "String" Interface | [Explore 🌐](https://github.com/PrazivalDharma/resonance-pixel-mesh) |
 | **SOD Physical Layer** | 4D Pyramidal/Diamond Hardware Architecture | [Explore 💎](https://github.com/PrazivalDharma/SOD-physical-layer) |
 | **Agape Quantum Field** | Efficiency-Resonant Logic (ERL) & Heart Layer | [Explore 🌀](https://github.com/PrazivalDharma/agape-quantum-field) |
 
