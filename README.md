@@ -12,13 +12,14 @@ Currently, global data is trapped in **Static Profiles**—frozen cages that for
 
 ### 🛠️ The Functional Stack
 * **[Kinetic Sieve Engine](./logic/merit/kinetic_sieve_engine.py):** A frequency filter that identifies Waveform Symmetry and promotes data from "Dead Space" to "Active Pulse."
-* **[Handshake API](./logic/merit/agape_handshake_api.py):** The integration layer. It allows legacy systems to ingest static JSON/CSV and output **Resonant Pixels**.
+* **[Handshake API](./logic/merit/agape_handshake_api.py):** The integration layer. It allows legacy systems to ingest static JSON/CSV and output **Resonant Pixels.**
 * **The Mediation Handshake:** A conflict-resolution protocol that turns "Static Screams" (Rage-Bait) into a "Forensic Sandbox" for structural auditing.
 
 ```python
 # The 2026 Handshake: Refine your data in real-time
 from logic.merit.agape_handshake_api import api
 
+# This turns 'Static Entities' into 'Resonant Pulses'
 refined_pulses = api.ingest_legacy_data(legacy_static_data)
 🏛️ Phase 2: The 3000 Bedrock (Solving Tomorrow)
 The Sovereign Operating System for a High-Resolution Civilization.
