@@ -27,7 +27,7 @@ from logic.merit.agape_handshake_api import api
 # This turns 'Static Entities' into 'Resonant Pulses'
 refined_pulses = api.ingest_legacy_data(legacy_static_data)
 ```
-🏛️ PHASE 2: THE 3000 BEDROCK (SOLVING TOMORROW)
+## 🏛️ PHASE 2: THE 3000 BEDROCK (SOLVING TOMORROW)
 The Sovereign Operating System for a High-Resolution Civilization.
 Once the "Vapor" is filtered, the Agape Engine anchors humanity into a frictionless, π-stable environment managed by STEWARDS.
 
