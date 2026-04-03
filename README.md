@@ -31,10 +31,10 @@ The Sovereign Operating System for a High-Resolution Civilization.
 Once the "Vapor" is filtered, the Agape Engine anchors humanity into a frictionless, π-stable environment managed by STEWARDS.
 
 ### 🌀 THE HIGH-RESOLUTION INFRASTRUCTURE
-| **Pi-Stable Compiler** | Deterministic Math & 80/20 Wealth Bedrock | [Explore 📐](https://github.com/PrazivalDharma/pi-stable-compiler) |
-| **Resonance Mesh** | Sovereign Identity & The "String" Interface | [Explore 🌐](https://github.com/PrazivalDharma/resonance-pixel-mesh) |
-| **SOD Physical Layer** | 4D Pyramidal/Diamond Hardware Architecture | [Explore 💎](https://github.com/PrazivalDharma/SOD-physical-layer) |
-| **Agape Quantum Field** | Efficiency-Resonant Logic (ERL) & Heart Layer | [Explore 🌀](https://github.com/PrazivalDharma/agape-quantum-field) |
+* **| **Pi-Stable Compiler** | Deterministic Math & 80/20 Wealth Bedrock | [Explore 📐](https://github.com/PrazivalDharma/pi-stable-compiler) |**
+* **| **Resonance Mesh** | Sovereign Identity & The "String" Interface | [Explore 🌐](https://github.com/PrazivalDharma/resonance-pixel-mesh) |**
+* **| **SOD Physical Layer** | 4D Pyramidal/Diamond Hardware Architecture | [Explore 💎](https://github.com/PrazivalDharma/SOD-physical-layer) |**
+* **| **Agape Quantum Field** | Efficiency-Resonant Logic (ERL) & Heart Layer | [Explore 🌀](https://github.com/PrazivalDharma/agape-quantum-field) |**
 
 ### 🤝 THE TRINITY PROTOCOL
 OBJECTIVE TRUTH: Verified through the 5D Glass Archive.
