@@ -11,9 +11,9 @@
 Currently, global data is trapped in **STATIC PROFILES**—frozen cages that force humans to act like robots to remain visible. Our Middleware allows legacy platforms (Alphabet/PLTR/X) to "Handshake" with the future.
 
 ### 🛠️ THE FUNCTIONAL STACK
-* **[KINETIC SIEVE ENGINE](https://github.com/PrazivalDharma/logic/merit/kinetic_sieve_engine.py):** A frequency filter that identifies Waveform Symmetry and promotes data from "Dead Space" to "Active Pulse." 
-* **[HANDSHAKE API](https://github.com/PrazivalDharma/logic/merit/agape_handshake_api.py):** The integration layer. It allows legacy systems to ingest static JSON/CSV and output **RESONANT PIXELS.**
-* **[CHIASTIC WEAVER](https://github.com/PrazivalDharma/logic/merit/chiastic_weaver.py):** A conflict-resolution protocol that turns "Static Screams" into a "Forensic Sandbox."
+* **[KINETIC SIEVE ENGINE]([https://github.com/PrazivalDharma/logic/merit/kinetic_sieve_engine.py](https://github.com/PrazivalDharma/agape-quantum-field/blob/main/logic/merit/kinetic_sieve_engine.py)):** A frequency filter that identifies Waveform Symmetry and promotes data from "Dead Space" to "Active Pulse." 
+* **[HANDSHAKE API]([https://github.com/PrazivalDharma/logic/merit/agape_handshake_api.py](https://github.com/PrazivalDharma/agape-quantum-field/blob/main/logic/merit/agape_handshake_api.py)):** The integration layer. It allows legacy systems to ingest static JSON/CSV and output **RESONANT PIXELS.**
+* **[CHIASTIC WEAVER]([https://github.com/PrazivalDharma/logic/merit/chiastic_weaver.py](https://github.com/PrazivalDharma/agape-quantum-field/blob/main/logic/merit/chiastic_weaver.py)):** A conflict-resolution protocol that turns "Static Screams" into a "Forensic Sandbox."
 
 ### 📝 IMPLEMENTATION LOGIC
 To integrate the Agape Engine, use the following call:
