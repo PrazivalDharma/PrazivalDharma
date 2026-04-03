@@ -22,7 +22,7 @@ From: logic.merit.agape_handshake_api import api
 Action: refined_pulses = api.get_legacy_data(legacy_static_data)
 
 # The 2026 Handshake: Refine your data in real-time
-from logic.merit.agape_handshake_api import api
+from logic.merit.agape_handshake_api import api  logic/merit/agape_handshake_api.py
 
 # This turns 'Static Entities' into 'Resonant Pulses'
 refined_pulses = api.ingest_legacy_data(legacy_static_data)
